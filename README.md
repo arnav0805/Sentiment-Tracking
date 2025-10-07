@@ -1,4 +1,4 @@
-# 🎯 Sentiment Tracking
+#  Sentiment Tracking
 
 ##  Overview
 **Sentiment Tracking** is a Natural Language Processing (NLP) project that analyzes text data to determine the sentiment expressed — whether **positive**, **negative**, or **neutral**.  
