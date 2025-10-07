@@ -24,7 +24,7 @@ It can be used to monitor opinions, reviews, or feedback from various sources su
 
 ---
 
-## 🚀 How to Run
+##  How to Run
  Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sentiment-tracking.git
