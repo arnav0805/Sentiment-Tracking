@@ -1,12 +1,12 @@
-# 🎯 Sentiment Tracking
+#  Sentiment Tracking
 
-## 📘 Overview
+##  Overview
 **Sentiment Tracking** is a Natural Language Processing (NLP) project that analyzes text data to determine the sentiment expressed — whether **positive**, **negative**, or **neutral**.  
 It can be used to monitor opinions, reviews, or feedback from various sources such as social media, product reviews, or survey responses.
 
 ---
 
-## 🧠 Features
+##  Features
 - Classifies text into **Positive**, **Negative**, or **Neutral** sentiment.  
 - Supports multiple data sources (tweets, comments, reviews, etc.).  
 - Visualizes overall sentiment distribution.  
@@ -14,7 +14,7 @@ It can be used to monitor opinions, reviews, or feedback from various sources su
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python 3.x**  
 - **Libraries:**  
   - `pandas` – data handling  
