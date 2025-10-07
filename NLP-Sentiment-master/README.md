@@ -25,11 +25,9 @@ It can be used to monitor opinions, reviews, or feedback from various sources su
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sentiment-tracking.git
    cd sentiment-tracking
 
-pip install -r requirements.txt
 
-python sentiment_tracking.py
